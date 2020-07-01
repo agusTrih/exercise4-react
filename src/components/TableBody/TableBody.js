@@ -6,8 +6,8 @@ function TableBody(props) {
             <tr>
                 <td>{props.name}</td>
                 <td>{props.age}</td>
-                <td>{props.address}</td>
                 <td>{props.sex}</td>
+                <td>{props.address}</td>
             </tr>
         </tbody>
     );
